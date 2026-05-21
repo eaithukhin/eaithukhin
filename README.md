@@ -1,9 +1,10 @@
-## 👩‍💻 自己紹介
+
 
 ## 👩‍💻 自己紹介
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=16&duration=2000&pause=500&color=1a6e3e&background=d4f0e0&center=false&vCenter=true&multiline=true&repeat=true&width=680&height=160&lines=👋+はじめまして！Eai+Thu+Khin+です;🏫+日本コンピュータ専門学校　Webシステムコース　2年生;💻+Java・JavaScript・HTML/CSS・Linux・Python+を学んでいます;🌏+実生活で役立つものを作ることが目標です;🚀+作ったものをここでシェアしていきます！)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:4caf7d&height=130&section=header&text=自己紹介&fontSize=30&fontColor=145c33&fontAlignY=70"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=16&duration=2000&pause=500&color=145c33&background=d4f0e0&center=false&vCenter=true&multiline=true&repeat=true&width=680&height=160&lines=👋+はじめまして！Eai+Thu+Khin+です;🏫+日本コンピュータ専門学校　Webシステムコース　2年生;💻+Java・JavaScript・HTML/CSS・Linux・Python+を学んでいます;🌏+実生活で役立つものを作ることが目標です;🚀+作ったものをここでシェアしていきます！)](https://git.io/typing-svg)
 ---
 
 ## 🛠️ スキル
@@ -36,6 +37,6 @@
 
 「毎日少しずつ成長する。それが積み重なって、大きな変化になる。」
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4caf7d,100:145c33&height=100&section=footer"/>
 
 </div>

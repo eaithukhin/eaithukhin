@@ -1,6 +1,8 @@
 ## 👩‍💻 自己紹介
 
-<img src="intro.svg" alt="自己紹介" width="100%"/>
+## 👩‍💻 自己紹介
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=16&duration=2000&pause=500&color=1a6e3e&background=d4f0e0&center=false&vCenter=true&multiline=true&repeat=true&width=680&height=160&lines=👋+はじめまして！Eai+Thu+Khin+です;🏫+日本コンピュータ専門学校　Webシステムコース　2年生;💻+Java・JavaScript・HTML/CSS・Linux・Python+を学んでいます;🌏+実生活で役立つものを作ることが目標です;🚀+作ったものをここでシェアしていきます！)](https://git.io/typing-svg)
 
 ---
 

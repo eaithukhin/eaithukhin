@@ -1,14 +1,7 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Eai%20Thu%20Khin&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=IT%20Student%20%7C%20Web%20Developer%20in%20Progress&descAlignY=58&descColor=e0d7ff"/>
-
-</div>
-
----
-
 ## 👩‍💻 自己紹介
 
 <img src="intro.svg" alt="自己紹介" width="100%"/>
+
 ---
 
 ## 🛠️ スキル
